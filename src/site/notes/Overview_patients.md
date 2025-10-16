@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/overview-patients/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/overview-patients/","tags":["gardenEntry"]}
 ---
 
 

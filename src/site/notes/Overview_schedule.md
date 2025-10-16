@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/overview-schedule/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/overview-schedule/"}
 ---
 
 
